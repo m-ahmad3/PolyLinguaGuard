@@ -1,0 +1,28 @@
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+sentencepiece>=0.1.99
+accelerate>=0.21.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+wordcloud>=1.9.0
+
+# Statistical Analysis
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Utilities
+tqdm>=4.65.0
+gdown>=4.7.0
+
+# Translation (for dataset creation)
+# sentencepiece already included above

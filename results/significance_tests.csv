@@ -1,0 +1,9 @@
+Comparison,Language,p-value,Significant
+LaBSE: EN vs Multi,English,0.5896,No
+LaBSE: EN vs Multi,German,0.0046,Yes
+mDeBERTa: EN vs Multi,English,0.0933,No
+mDeBERTa: EN vs Multi,German,0.3135,No
+Multi: LaBSE vs mDeBERTa,English,0.0138,Yes
+Multi: LaBSE vs mDeBERTa,German,0.6397,No
+EN-only: LaBSE vs mDeBERTa,English,0.0001,Yes
+EN-only: LaBSE vs mDeBERTa,German,0.3533,No
