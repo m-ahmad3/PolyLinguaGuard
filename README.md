@@ -125,7 +125,6 @@ PolyLinguaGuard/
 │   ├── bootstrap_ci.csv             # Confidence intervals
 │   └── significance_tests.csv       # Statistical tests
 ├── 📄 paper/
-│   ├── PolyLinguaGuard_Report.tex   # LaTeX source
 │   └── PolyLinguaGuard_Report.pdf   # Research paper
 ├── 📖 README.md
 ├── 📋 requirements.txt
@@ -216,8 +215,8 @@ Our research paper is available in the `paper/` directory:
 ```bibtex
 @article{ahmad2026polylinguaguard,
   title={PolyLinguaGuard: Cross-Lingual Prompt Injection Detection Using Multilingual BERT Models},
-  author={Ahmad, Muhammad and Rehman, Abdul and Habib, Abdullah},
-  journal={FAST NUCES Machine Learning Project},
+  author={Muhammad Ahmad},
+  journal={UCP Machine Learning Project},
   year={2026}
 }
 ```
@@ -233,16 +232,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Authors
-
-| Name           | Roll Number   | Institution       |
-| -------------- | ------------- | ----------------- |
-| Muhammad Ahmad | L1F22BSCS0634 | FAST NUCES Lahore |
-| Abdul Rehman   | L1F22BSCS0522 | FAST NUCES Lahore |
-| Abdullah Habib | L1F22BSCS0346 | FAST NUCES Lahore |
 
 ---
 
