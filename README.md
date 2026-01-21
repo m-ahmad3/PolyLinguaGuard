@@ -201,26 +201,6 @@ print("Malicious" if prediction == 1 else "Safe")
 | Optimizer           | AdamW                    |
 | Weight Decay        | 0.01                     |
 | Hardware            | NVIDIA Tesla P100 (16GB) |
-
----
-
-## 📄 Paper
-
-Our research paper is available in the `paper/` directory:
-
-- **[PolyLinguaGuard_Report.pdf](paper/PolyLinguaGuard_Report.pdf)** - Full IEEE-style research paper
-
-### Citation
-
-```bibtex
-@article{ahmad2026polylinguaguard,
-  title={PolyLinguaGuard: Cross-Lingual Prompt Injection Detection Using Multilingual BERT Models},
-  author={Muhammad Ahmad},
-  journal={UCP Machine Learning Project},
-  year={2026}
-}
-```
-
 ---
 
 ## 🤝 Contributing
@@ -248,6 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it useful! ⭐**
 
-Made with ❤️ at FAST NUCES Lahore
+Made with ❤️ by Ahmad
 
 </div>
